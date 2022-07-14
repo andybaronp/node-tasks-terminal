@@ -1,4 +1,6 @@
 # NODE  APP TASK TERMINAL
 
-npm i 
-npm app
+1- npm i 
+
+
+2- node app.js
